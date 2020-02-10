@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sofia Lew Deveali",
+    "description": "",
+    "home_page_url": "https://sofialew.github.io",
+    "feed_url": "https://sofialew.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sofia Lew Deveali"
+    },
+    "items": [
+        {
+            "id": "https://sofialew.github.io/nino-gordo.html",
+            "url": "https://sofialew.github.io/nino-gordo.html",
+            "title": "Niño Gordo",
+            "image": "https://sofialew.github.io/media/posts/2/nino.png",
+            "author": {
+                "name": "Sofia Lew Deveali"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T01:07:35-03:00",
+            "date_modified": "2020-02-10T01:07:35-03:00"
+        },
+        {
+            "id": "https://sofialew.github.io/gulp.html",
+            "url": "https://sofialew.github.io/gulp.html",
+            "title": "GULP",
+            "summary": "The clients wanted to create a disruptive brand within the crowded health&hellip;",
+            "content_html": "<p id=\"mcetoc_1e0mj1gok1\" class=\"ProjectInfo-projectName-1E3\">The clients wanted to create a disruptive brand within the crowded health drinks category. Their cold pressed juices and fermented teas are made using functional, interesting ingredients that not only taste grate but deliver actual health benefits.</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://sofialew.github.io/media/posts/1/gallery/gulp.png\" ><img src=\"https://sofialew.github.io/media/posts/1/gallery/gulp-thumbnail.png\" alt=\"\" width=\"768\" height=\"532\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sofialew.github.io/media/posts/1/gallery/gulp2.png\" ><img src=\"https://sofialew.github.io/media/posts/1/gallery/gulp2-thumbnail.png\" alt=\"\" width=\"768\" height=\"438\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://sofialew.github.io/media/posts/1/gallery/gulpthumb.png\" ><img src=\"https://sofialew.github.io/media/posts/1/gallery/gulpthumb-thumbnail.png\" alt=\"\" width=\"768\" height=\"389\"></a></figure>\n</div>",
+            "image": "https://sofialew.github.io/media/posts/1/gulp-thumb.png",
+            "author": {
+                "name": "Sofia Lew Deveali"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-10T00:51:22-03:00",
+            "date_modified": "2020-02-10T01:11:10-03:00"
+        }
+    ]
+}

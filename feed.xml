@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Sofia Lew Deveali</title>
+    <link href="https://sofialew.github.io/feed.xml" rel="self" />
+    <link href="https://sofialew.github.io" />
+    <updated>2020-02-10T01:35:23-03:00</updated>
+    <author>
+        <name>Sofia Lew Deveali</name>
+    </author>
+    <id>https://sofialew.github.io</id>
+
+    <entry>
+        <title>Niño Gordo</title>
+        <author>
+            <name>Sofia Lew Deveali</name>
+        </author>
+        <link href="https://sofialew.github.io/nino-gordo.html"/>
+        <id>https://sofialew.github.io/nino-gordo.html</id>
+
+        <updated>2020-02-10T01:07:35-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>GULP</title>
+        <author>
+            <name>Sofia Lew Deveali</name>
+        </author>
+        <link href="https://sofialew.github.io/gulp.html"/>
+        <id>https://sofialew.github.io/gulp.html</id>
+
+        <updated>2020-02-10T01:11:10-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sofialew.github.io/media/posts/1/gulp-thumb.png" alt="GULP" />
+                    The clients wanted to create a disruptive brand within the crowded health&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sofialew.github.io/media/posts/1/gulp-thumb.png" alt="GULP" />
+                <p id="mcetoc_1e0mj1gok1" class="ProjectInfo-projectName-1E3">The clients wanted to create a disruptive brand within the crowded health drinks category. Their cold pressed juices and fermented teas are made using functional, interesting ingredients that not only taste grate but deliver actual health benefits.</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://sofialew.github.io/media/posts/1/gallery/gulp.png" ><img src="https://sofialew.github.io/media/posts/1/gallery/gulp-thumbnail.png" alt="" width="768" height="532"></a></figure>
+<figure class="gallery__item"><a href="https://sofialew.github.io/media/posts/1/gallery/gulp2.png" ><img src="https://sofialew.github.io/media/posts/1/gallery/gulp2-thumbnail.png" alt="" width="768" height="438"></a></figure>
+<figure class="gallery__item"><a href="https://sofialew.github.io/media/posts/1/gallery/gulpthumb.png" ><img src="https://sofialew.github.io/media/posts/1/gallery/gulpthumb-thumbnail.png" alt="" width="768" height="389"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
